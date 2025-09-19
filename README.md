@@ -69,7 +69,7 @@ portfolio-paulonantet/
 │   └── typing-animation.css  
 │
 ├── js/
-│   ├── script.css 
+│   └──script.css 
 │
 ├── .gitignore           
 ├── .stylelintrc.json          
