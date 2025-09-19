@@ -53,3 +53,15 @@ Inspirado no visual de **consoles clássicos**, traz uma identidade única, dive
   - `cursor: url()` Cursor personalizado com estilo retro
 
 ---
+
+## Estrutura do Projeto
+
+```
+todo-list/
+│
+├── index.html          # Estrutura principal da aplicação
+├── style.css           # Estilos visuais e layout
+├── script.js           # Lógica de interação e manipulação de tarefas
+└── README.md           # Este arquivo
+```
+---
