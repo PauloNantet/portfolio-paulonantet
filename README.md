@@ -57,11 +57,25 @@ Inspirado no visual de **consoles clássicos**, traz uma identidade única, dive
 ## Estrutura do Projeto
 
 ```
-todo-list/
+portfolio-paulonantet/
 │
-├── index.html          # Estrutura principal da aplicação
-├── style.css           # Estilos visuais e layout
-├── script.js           # Lógica de interação e manipulação de tarefas
-└── README.md           # Este arquivo
+├── assets/
+│   └── images/
+│       ├── profile.png
+│       └── projeto1-screenshot.png           
+│
+├── css/
+│   ├── style.css 
+│   └── typing-animation.css  
+│
+├── js/
+│   ├── script.css 
+│
+├── .gitignore           
+├── .stylelintrc.json          
+├── index.html         
+├── package-lock.json           
+├── package.json         
+└── README.md   
 ```
 ---
