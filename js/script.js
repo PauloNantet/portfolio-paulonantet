@@ -1,12 +1,12 @@
 // Array de objetos com os projetos
 const projects = [
   {
-    name: "Pixel Shop",
-    description: "Loja virtual com design inspirado em jogos da Super Nintendo, usando HTML, CSS e JavaScript puro.",
+    name: "Portfólio - Paulo Henrique Nantet",
+    description: "Um portfólio feito com código limpo, alma de 8-bits e um toque de neon dos anos 90. Porque um bom design, como um bom jogo, nunca envelhece. 🕹️" ,
     image: "./assets/images/projeto1-screenshot.png",
-    technologies: ["HTML5", "CSS3", "JavaScript"],
-    githubUrl: "https://github.com/paulonantet/pixel-shop",
-    ariaLabel: "Ver projeto Pixel Shop no GitHub"
+    technologies: ["HTML5", "CSS3", "JavaScript", "Formspree", "Stylelint"],
+    githubUrl: "https://github.com/PauloNantet/portfolio-paulonantet",
+    ariaLabel: "Ver projeto Portfólio - Paulo Henrique Nantet no GitHub"
   }
 ];
 

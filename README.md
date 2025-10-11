@@ -2,7 +2,7 @@
 ---
 ## Portfólio - Paulo Henrique Nantet
 
-Um portfólio com estilo **retro/gamer**, feito para impressionar recrutadores e celebrar a nostalgia dos games!
+“Um portfólio feito com código limpo, alma de 8-bits e um toque de neon dos anos 90. Porque bom design, como bom jogo, nunca envelhece.” 🕹️ 
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
@@ -11,7 +11,6 @@ Um portfólio com estilo **retro/gamer**, feito para impressionar recrutadores e
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181515?style=for-the-badge&logo=github&logoColor=white)](https://paulonantet.github.io/portfolio-paulonantet/)
 
 Este é o repositório do meu **portfólio pessoal**, desenvolvido para apresentar meus projetos, habilidades e facilitar o contato com recrutadores e parceiros.  
-Inspirado no visual de **consoles clássicos**, traz uma identidade única, divertida e memorável.
 
 ---
 
