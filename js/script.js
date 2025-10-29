@@ -1,7 +1,7 @@
 // Array de objetos com os projetos
 const projects = [
   {
-    name: "Portfólio - Paulo Henrique Nantet",
+    name: "Portfólio - Paulo Henrique Nantet.",
     description:
       "Um portfólio feito com código limpo, alma de 8-bits e um toque de neon dos anos 90. Porque um bom design, como um bom jogo, nunca envelhece. 🕹️",
     image: "./assets/images/projeto1-screenshot.jpg",
@@ -10,13 +10,22 @@ const projects = [
     ariaLabel: "Ver projeto Portfólio - Paulo Henrique Nantet no GitHub",
   },
   {
-    name: "Burger Artesanal — Seu Hambúrguer Perfeito",
+    name: "Burger Artesanal — Seu Hambúrguer Perfeito.",
     description:
       "Um site responsivo e moderno para pedidos de hambúrgueres artesanais, com carrinho dinâmico e envio automático via WhatsApp.",
     image: "./assets/images/projeto2-screenshot.jpg",
     technologies: ["HTML5", "CSS3", "JavaScript"],
     githubUrl: "https://github.com/PauloNantet/kayla-rafa-burguer",
     ariaLabel: "Ver Burger Artesanal — Seu Hambúrguer Perfeito",
+  },
+  {
+    name: "Todo List — Lista de tarefas simples.",
+    description:
+      "desenvolvida para ajudar na organização e gerenciamento de atividades diárias.",
+    image: "./assets/images/projeto3-screenshot.jpg",
+    technologies: ["HTML5", "CSS3", "JavaScript", "Stylelint"],
+    githubUrl: "https://github.com/PauloNantet/todo-list-simples",
+    ariaLabel: "Ver Todo List — Lista de tarefas simples.",
   },
   
 ];
